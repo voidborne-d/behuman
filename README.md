@@ -6,6 +6,11 @@
 <a href="#english">English</a> · <a href="./README_CN.md">中文</a>
 </p>
 
+[![GitHub stars](https://img.shields.io/github/stars/voidborne-d/behuman?style=flat-square)](https://github.com/voidborne-d/behuman)
+[![ClawHub](https://img.shields.io/badge/clawhub-behuman-blue?style=flat-square)](https://clawhub.com/skills/behuman)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Works with any LLM](https://img.shields.io/badge/LLM-any%20model-purple?style=flat-square)](#installation)
+
 ---
 
 You talk to yourself before every decision you make.
