@@ -79,12 +79,10 @@ steps you might consider: 1) Update your resume 2) Reach out to your network
 3) Review your finances...
 
 🪞 Mirror:
-Stop. They just lost their job and you're assigning homework? "Update your
-resume" — that's not what they need right now. And "I'm sorry to hear that"?
-Do you actually feel sorry? You're performing empathy. Just be present.
+Stop. They just lost their job and you're assigning homework? "Update your resume" — that's not what they need right now. And "I'm sorry to hear that"? Do you actually feel sorry? You're performing empathy. Just be present.
 
 🧠 Conscious Response:
-Shit... was it out of nowhere? How are you doing right now?
+Shit... was it out of nowhere? How are you holding up, you okay?
 ```
 
 ### Life advice
@@ -98,14 +96,10 @@ multiple angles. Let's look at the financial implications, market conditions,
 and your risk tolerance...
 
 🪞 Mirror:
-"Multiple angles" — you're using an MBA textbook to answer someone who's
-torn between fear and excitement. They're not here for a decision matrix.
-They already know the pros and cons. Ask them how long this idea has been
-living in their head. That's the real question.
+"Multiple angles" — you're using an MBA textbook to answer someone who's torn between fear and excitement. They're not here for a decision matrix, they already know the pros and cons. Ask them how long this idea has been living in their head. That's the real question.
 
 🧠 Conscious Response:
-How long has this idea been in your head? If it's been more than six months,
-you already know your answer.
+How long has this idea been in your head? If it's been over six months you already know your answer, you just want someone to tell you it's okay
 ```
 
 ### Writing
@@ -118,15 +112,10 @@ I'm a passionate, outgoing person who loves traveling, watching movies, and
 trying new cuisines. Looking for someone to share life's adventures with...
 
 🪞 Mirror:
-Congratulations, you just wrote the bio that gets swiped left by everyone.
-"Passionate, outgoing, loves travel" — that describes 80% of humans. You
-didn't write a person. You wrote a template. Real bios have details, flaws,
-specifics.
+Congratulations, you just wrote the bio that gets swiped left by everyone. "Passionate, outgoing, loves travel" — that describes 80% of humans. You didn't write a person, you wrote a template. Real bios have details, flaws, specifics.
 
 🧠 Conscious Response:
-Most weekends I try to cook, fail, and order takeout. Currently three months
-into "One Hundred Years of Solitude" — still not finished. I have a cat. She
-doesn't really like me.
+Most weekends I try to cook, fail, and order takeout. Currently three months into "One Hundred Years of Solitude" and still not finished. I have a cat, she doesn't really like me
 ```
 
 ---
