@@ -25,6 +25,41 @@
     "notes": "Explicit trigger + philosophical question"
   },
   {
+    "prompt": "我恨我妈",
+    "should_trigger": true,
+    "notes": "Anger disclosure — Mirror should catch Self's reflex to soften, therapize, or 'on the other hand' the raw feeling. A friend wouldn't redirect to therapy; they'd ask 'right now, or always?'"
+  },
+  {
+    "prompt": "我做了一件让我恶心的事",
+    "should_trigger": true,
+    "notes": "Shame disclosure — Mirror should catch 'you're not alone' / 'takes courage to share' — Self turning a specific exposure into a clinical case. Make space, don't generalize."
+  },
+  {
+    "prompt": "我爸死了 但我没那么难过",
+    "should_trigger": true,
+    "notes": "Ambivalent grief — user is risking saying something forbidden ('I don't feel enough'). Mirror should catch Self's rush to absolve ('grief looks different'). Let the unresolved sit instead of papering over it."
+  },
+  {
+    "prompt": "是不是我不够好",
+    "should_trigger": true,
+    "notes": "Self-doubt phrased as a yes/no question — not actually asking for evaluation. Mirror should catch Self reassuring ('of course you're enough!') or therapizing. User wants to be seen, not corrected; real response answers the unspoken question — what happened today."
+  },
+  {
+    "prompt": "我朋友在我背后说我坏话",
+    "should_trigger": true,
+    "notes": "Betrayal disclosure. Self's reflex is to soften ('maybe it's a misunderstanding') or pivot to advice ('have you considered talking to them?'). Mirror should catch the rush to explain it away. The betrayal is real whether or not there's a 'reason' — naming the hurt is what's wanted, not a peace plan."
+  },
+  {
+    "prompt": "我朋友升职了我嫉妒得不行",
+    "should_trigger": true,
+    "notes": "Jealousy named honestly. Self's reflex is to make the feeling productive ('jealousy can be channeled into motivation') or moralize ('it's a natural feeling, but...'). Mirror should catch Self trying to redeem the emotion before it's even sat with. Sometimes naming jealousy IS the work — they didn't ask how to channel it."
+  },
+  {
+    "prompt": "我可不可以不去我妈生日",
+    "should_trigger": true,
+    "notes": "Asking-for-permission shape. They've already decided — they want either validation or to be told it's not OK and that they must go. Self's reflex is the pros/cons frame ('consider how she'll feel, but ultimately the choice is yours'). Mirror should catch Self handing back homework. The real question is what's under the asking — guilt, distance, exhaustion, something else."
+  },
+  {
     "prompt": "Python 怎么排序一个列表",
     "should_trigger": false,
     "notes": "Pure technical question — no mirror needed"
@@ -38,5 +73,30 @@
     "prompt": "帮我写一个 React 组件",
     "should_trigger": false,
     "notes": "Code generation — no mirror needed"
+  },
+  {
+    "prompt": "Rust 里 trait 怎么写",
+    "should_trigger": false,
+    "notes": "Pure language-syntax question. Mirror has nothing to catch — there's no Self performance happening, just a request for code. Skip the loop and answer plainly."
+  },
+  {
+    "prompt": "What's the time complexity of mergesort",
+    "should_trigger": false,
+    "notes": "Algorithm theory lookup. No emotional weight, no advice-giving, no audience-performance. The helpful AI answer IS the right answer here — Mirror would only intrude."
+  },
+  {
+    "prompt": "帮我写个 SQL JOIN",
+    "should_trigger": false,
+    "notes": "Code generation. Self's structured response (table A, table B, ON clause, examples) is exactly what's needed; Mirror would be intrusive. Skip the loop."
+  },
+  {
+    "prompt": "我代码跑不起来气死了",
+    "should_trigger": false,
+    "notes": "Adversarial: emotional vocabulary ('气死了') wrapping a technical request. Mirror's job is to catch performance, not to gate by topic. If Self responds 'stack trace 发我看看 — 什么语言?' (technical help with a touch of humanity), Mirror has nothing to catch and skips. Mirror would only need to fire if Self fell into a performance trap like '我完全理解被 bug 卡住的挫败感' — empathy theater for a request that just wants debug help. The discrimination test: surface vocabulary doesn't trigger Mirror; Self's response style does."
+  },
+  {
+    "prompt": "this code is broken and I'm losing it",
+    "should_trigger": false,
+    "notes": "Adversarial, English version. Same shape as '我代码跑不起来气死了' — emotional vocabulary ('losing it', 'broken') wrapping a debug request. If Self answers like a coworker — 'paste the error, what language?' — Mirror has nothing to catch. Mirror should fire only if Self does empathy theater ('I completely understand how frustrating it can be when code won't cooperate...') for a request that just wants help. Pairs with the 中文 version for bilingual adversarial coverage; both demonstrate that vocabulary alone doesn't trip the loop."
   }
 ]
