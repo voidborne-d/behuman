@@ -11,6 +11,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-orange?style=flat-square)](#as-a-claude-code-command)
 [![Works with any LLM](https://img.shields.io/badge/LLM-any%20model-purple?style=flat-square)](#installation)
+[![Live demo](https://img.shields.io/badge/demo-behuman.swaylab.ai-black?style=flat-square)](https://behuman.swaylab.ai/)
+
+**Try it live →** [behuman.swaylab.ai](https://behuman.swaylab.ai/)
 
 ---
 
